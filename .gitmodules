@@ -1,0 +1,3 @@
+[submodule "external/pearls"]
+	path = external/pearls
+	url = git@github.com:derekmcloughlin/pearls.git
